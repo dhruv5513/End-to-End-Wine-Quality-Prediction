@@ -30,9 +30,6 @@
    [https://jumpshare.com/s/e4roADZdkHUeJxKyXsXG]
 
 
-# End-to-end-ML-Project
-
-
 ## Workflows
 1. update config.yaml
 2. update schema.yaml
