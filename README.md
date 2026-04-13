@@ -1,4 +1,4 @@
-# YouTube Sentiment Analyzer - Chrome Extension
+# YouTube Sentiment Analyzer - Extension
    
    ## 🎯 Overview
    A Chrome extension that analyzes YouTube comment sentiment in real-time using Machine Learning.
